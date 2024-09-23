@@ -1,0 +1,7 @@
+C:\Users\robson.csantos8\source\repos\ExercicioContrutores\ExercicioContrutores\bin\Debug\ExercicioContrutores.exe.config
+C:\Users\robson.csantos8\source\repos\ExercicioContrutores\ExercicioContrutores\bin\Debug\ExercicioContrutores.exe
+C:\Users\robson.csantos8\source\repos\ExercicioContrutores\ExercicioContrutores\bin\Debug\ExercicioContrutores.pdb
+C:\Users\robson.csantos8\source\repos\ExercicioContrutores\ExercicioContrutores\obj\Debug\ExercicioContrutores.csproj.AssemblyReference.cache
+C:\Users\robson.csantos8\source\repos\ExercicioContrutores\ExercicioContrutores\obj\Debug\ExercicioContrutores.csproj.CoreCompileInputs.cache
+C:\Users\robson.csantos8\source\repos\ExercicioContrutores\ExercicioContrutores\obj\Debug\ExercicioContrutores.exe
+C:\Users\robson.csantos8\source\repos\ExercicioContrutores\ExercicioContrutores\obj\Debug\ExercicioContrutores.pdb
